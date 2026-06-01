@@ -396,4 +396,4 @@ This project integrates concepts from:
 ---
 
 
-## 🚀 From Idea to Startup — Powered by AI
+
